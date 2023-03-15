@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-cookies-exemple",
+  "version": "1.0.0",
+  "description": "Ejemplo practico del manejo de cookies con Nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon ./index.js"
+  },
+  "author": "dibot55",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
