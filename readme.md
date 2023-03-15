@@ -8,4 +8,4 @@
 
 ### Descripción
 
-Un ejemplo de configuración de Cookies con el modulo npm "cookie-parser". En este ejemplo se crea, se consulta y se eliminan las cookies.
+Un ejemplo de configuración basico de Cookies con el modulo npm "cookie-parser". En este ejemplo se crea, se consulta y se eliminan las cookies.
